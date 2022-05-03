@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "twitter-clone-1faac",
+    "firebase use staging": "twitter-clone-b90a0",
+    " firebase use default": "twitter-clone-b90a0"
+  },
+  "targets": {}
+}
